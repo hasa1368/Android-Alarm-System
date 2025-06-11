@@ -376,7 +376,7 @@ import QtQuick.Dialogs
       visible: false
       TextEdit {
           id: msgnumber
-          text: qsTr("+989357919823")
+          text: qsTr("Destination phone number")
           x:200
           y:200
           visible: false
