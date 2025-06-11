@@ -1,0 +1,1 @@
+This is a security application to receive the location of the event and check it on the map. Initially, an SMS with longitude and latitude is received and the user reports to the administrator after checking these locations on the map. This application is written for the Android operating system on the QT platform and with the programming languages ​​C++, QML and Java.
