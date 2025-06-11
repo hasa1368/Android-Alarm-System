@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/Alarm3">
+<file alias="main.qml">C:/Users/User/Desktop/Alarm3/main.qml</file>
+</qresource>
+</RCC>
