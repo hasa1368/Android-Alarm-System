@@ -32,7 +32,7 @@ public class SmsReceiver extends BroadcastReceiver {
                         String messageBody = smsMessage.getMessageBody();
                         String strMsgSrc = smsMessage.getOriginatingAddress();
                         String sender = smsMessage.getDisplayOriginatingAddress();
-                        if(strMsgSrc.equals("+989107624656"))
+                        if(strMsgSrc.equals("Soure Phone Number"))
                           {
                         messagesList.add(messageBody);
                         showNotification(context, sender, messageBody);
